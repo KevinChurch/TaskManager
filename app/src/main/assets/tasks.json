@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "task": "Feed the cat",
+    "finished": true
+  },
+  {
+    "id": 2,
+    "task": "Do the dishes",
+    "finished": false
+  },
+  {
+    "id": 3,
+    "task": "Take out the trash",
+    "finished": false
+  }
+]
+
+
